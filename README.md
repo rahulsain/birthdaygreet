@@ -4,6 +4,7 @@ Build a Birthday Wishing app using views and layout, handle clicks and learned n
 **Main Page**
 
 <img src="/img/1600334205092.jpg" alt="App Main Page" height="10%" width="50%">
+
 **After the button is clicked**
 
 <img src="/img/1600334205083.jpg" alt="App Main Page" height="30%" width="50%">
