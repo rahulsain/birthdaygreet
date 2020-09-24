@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 include ':app'
+=======
+include ':app'
+>>>>>>> cb4a9fba970b3f83e5ee4cde93609cd920384041
 rootProject.name = "Birthday Greet"
