@@ -16,7 +16,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 
      fun createBirthdayCard(view: View) {
          val name = nameInput.editableText.toString()
-        val intent = Intent(this,BirthdayGreetingActivity::class.java)
+         val intent = Intent(this,BirthdayGreetingActivity::class.java)
          intent.putExtra(BirthdayGreetingActivity.NAME_EXTRA,name)
          startActivity(intent)
      }
